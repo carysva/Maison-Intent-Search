@@ -1,5 +1,6 @@
 # Maison Intent Search (Intent-Aware Luxury Product Discovery)
 
+## About
 A text-mining-based recommendation prototype that translates natural-language intent into ranked luxury product recommendations. The system combines TF-IDF representations, synonym-aware query expansion, cosine-similarity ranking, and explainable matching.
 
 ## Business Problem
