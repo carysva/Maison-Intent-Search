@@ -20,8 +20,8 @@ Keyword search fails to capture luxury client intent (use case, occasion, vibe, 
 - Optional structure for navigation:
   - Clustering (e.g., KMeans) groups products into coarse themes ("intent shelves") aligned with common merchandising categories
 
-## Prototype Artifacts (recommended to include)
-- `Carys_Van_Atta_MaisonIntentSearch.ipynb`
+## Included Files
+- `Carys_Van_Atta_MaisonIntentSearch.ipynb` (Maison Intent Search prototype code)
 - `Carys_Van_Atta_MaisonIntentSearch_ (2).docx` (project narrative + methodology)
 
 ## Method Summary (BA-friendly)
